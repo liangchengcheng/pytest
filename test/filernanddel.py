@@ -14,3 +14,6 @@ os.mkdir("test")
 
 # 给出当前的目录
 print os.getcwd()
+
+# 删除”/tmp/test”目录
+os.rmdir( "/tmp/test"  )
