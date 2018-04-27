@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="832f969f-f5a8-418a-acb1-75f3f8704dc4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test/duixiang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/huishou.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/fangfacx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/jicheng.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,6 +31,7 @@
     <SUITE FILE_PATH="coverage/untitled$yuanzu.coverage" NAME="yuanzu Coverage Results" MODIFIED="1524314440696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/untitled$yichang2.coverage" NAME="yichang2 Coverage Results" MODIFIED="1524697423913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/untitled$hanshuprint.coverage" NAME="hanshuprint Coverage Results" MODIFIED="1524529856647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/untitled$fangfacx.coverage" NAME="fangfacx Coverage Results" MODIFIED="1524784527680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/untitled$tyhxsdtyj.coverage" NAME="tyhxsdtyj Coverage Results" MODIFIED="1523949219320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/untitled$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1523921577423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/untitled$isprint.coverage" NAME="isprint Coverage Results" MODIFIED="1524012528117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
@@ -41,6 +42,7 @@
     <SUITE FILE_PATH="coverage/untitled$zuoyongyu.coverage" NAME="zuoyongyu Coverage Results" MODIFIED="1524530117843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/untitled$zidian.coverage" NAME="zidian Coverage Results" MODIFIED="1524317007621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/untitled$huishou.coverage" NAME="huishou Coverage Results" MODIFIED="1524783909168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/untitled$jicheng.coverage" NAME="jicheng Coverage Results" MODIFIED="1524784435765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/untitled$zidianshanchu.coverage" NAME="zidianshanchu Coverage Results" MODIFIED="1524523840358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/untitled$listprint.coverage" NAME="listprint Coverage Results" MODIFIED="1523956991328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/untitled$zhushi.coverage" NAME="zhushi Coverage Results" MODIFIED="1523945615743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
@@ -60,11 +62,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="huishou.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="huishou.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/huishou.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jicheng.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/jicheng.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fangfacx.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/fangfacx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -133,6 +153,8 @@
         <option value="$PROJECT_DIR$/test/yichang2.py" />
         <option value="$PROJECT_DIR$/test/duixiang.py" />
         <option value="$PROJECT_DIR$/test/huishou.py" />
+        <option value="$PROJECT_DIR$/test/jicheng.py" />
+        <option value="$PROJECT_DIR$/test/fangfacx.py" />
       </list>
     </option>
   </component>
@@ -146,8 +168,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="745" />
-    <option name="y" value="55" />
+    <option name="x" value="578" />
+    <option name="y" value="68" />
     <option name="width" value="961" />
     <option name="height" value="692" />
   </component>
@@ -197,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.huishou">
+  <component name="RunManager" selected="Python.fangfacx">
     <configuration name="duixiang" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +239,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="fileio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fangfacx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,7 +252,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/fileio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/fangfacx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +277,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="yichang1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="jicheng" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,7 +290,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/yichang1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/jicheng.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,19 +316,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.fileio" />
-      <item itemvalue="Python.yichang1" />
       <item itemvalue="Python.yichang2" />
       <item itemvalue="Python.duixiang" />
       <item itemvalue="Python.huishou" />
+      <item itemvalue="Python.jicheng" />
+      <item itemvalue="Python.fangfacx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fangfacx" />
+        <item itemvalue="Python.jicheng" />
         <item itemvalue="Python.huishou" />
         <item itemvalue="Python.duixiang" />
         <item itemvalue="Python.yichang2" />
-        <item itemvalue="Python.yichang1" />
-        <item itemvalue="Python.fileio" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +346,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="745" y="55" width="961" height="692" extended-state="0" />
+    <frame x="578" y="68" width="961" height="692" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -334,7 +356,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24973986" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973986" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -362,7 +384,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33009708" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33009708" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -404,20 +426,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/yuanzu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/listprint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/zidian.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -753,6 +761,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/jicheng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/fangfacx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
